@@ -5,6 +5,8 @@ public class MyDate {
 
 	void show(Date d) {
 		
+		System.out.println("Hello Kranti");
+		
 		System.out.println("Date :"+d);
 		
 		int day = d.getDay();
